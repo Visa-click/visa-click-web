@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-	--scale: 0.05208364745vw;
+	--scale: 0.0514vw;
 	--primary: #256DF6;
 	--primary_10: #1A273E;
 	--secondary: #F86A01;
