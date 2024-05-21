@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--scale: 0.05208364745vw;
+	--primary: #256DF6;
+	--primary_10: #1A273E;
+	--secondary: #F86A01;
+	--plan_second: rgba(255, 255, 255, 20%);
+	--back: #1A273E;
+	--block: #334461;
+	--element: #425983;
+	--hover: #3F4F6A;
+	--purple: #9747FF;
+	--red: #FF5353;
+	--orange: #FFC553;
+	--green: #A9FF81;
+}
+
+html {
+	font-size: var(--scale);
+	line-height: 1;
+}
+
+@font-face {
+	font-family: "CeraPro-Bold";
+	src: url("/CeraProBold.ttf") format("truetype");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CeraPro-Regular";
+	src: url("/CeraProRegular.ttf") format("truetype");
+	font-style: normal;
+}
