@@ -36,10 +36,10 @@
 						{@html Telegram} 
 					</button>
 					<button class="bg-[#256DF6] px-[24rem]">
-						Подать заявку на визу
+						<a href="https://t.me/k_eta_bot">Подать заявку на визу</a>
 					</button>
 					<button class="bg-[#425983] px-[24rem]">
-						Узнать статус
+						<a href="https://t.me/k_eta_bot">Узнать статус</a>
 					</button>
 				</div>
 			</div>
