@@ -32,7 +32,7 @@
 				</button>
 				<div class="flex gap-[16rem] text-white *:flex *:items-center *:rounded-[12rem]">
 					<button class="gap-[16rem] bg-[--block] pl-[16rem] justify-between">
-						Мы в Телеграме
+						<a href="https://t.me/ketaketaru">Мы в Телеграме</a>
 						{@html Telegram} 
 					</button>
 					<button class="bg-[#256DF6] px-[24rem]">
