@@ -32,14 +32,14 @@
 				</button>
 				<div class="flex gap-[16rem] text-white *:flex *:items-center *:rounded-[12rem]">
 					<button class="gap-[16rem] bg-[--block] pl-[16rem] justify-between">
-						<a href="https://t.me/ketaketaru">Мы в Телеграме</a>
+						<a target="_blank" href="https://t.me/ketaketaru">Мы в Телеграме</a>
 						{@html Telegram} 
 					</button>
 					<button class="bg-[#256DF6] px-[24rem]">
-						<a href="https://t.me/k_eta_bot">Подать заявку на визу</a>
+						<a target="_blank" href="https://t.me/k_eta_bot">Подать заявку на визу</a>
 					</button>
 					<button class="bg-[#425983] px-[24rem]">
-						<a href="https://t.me/k_eta_bot">Узнать статус</a>
+						<a target="_blank" href="https://t.me/k_eta_bot">Узнать статус</a>
 					</button>
 				</div>
 			</div>
@@ -53,7 +53,7 @@
 						Просто заполните заявку, загрузите скан вашего паспорта,<br/>и мы возьмем на себя всю остальную работу.
 					</p>
 					<button class="bg-[#256DF6] text-[16rem] text-white px-[24rem] py-[11rem] rounded-[12rem]">
-						Подать заявку на визу
+						<a target="_blank" href="https://t.me/k_eta_bot">Подать заявку на визу</a>
 					</button>
 					<button class="py-[72rem] text-[20rem] text-[#425983] flex flex-col justify-center items-center gap-[12rem]">
 						Узнайте подробности
@@ -142,6 +142,16 @@
 		</div>
 		<div class="absolute left-[96rem] bottom-[-94rem]">
 			{@html RedBlot}
+		</div>
+	</div>
+	<div class="flex justify-center relative py-[100rem]">
+		<div class="text-[24rem]">
+			ИП Макаренкова Анастасия Алексеевна<br/>
+			ИНН 691202396914<br/>
+			ОГРНИП 324690000039157<br/>
+			<a target="_blank" href="https://t.me/YuumiBun">Контакт @YuumiBun</a><br/>
+			<a href="/agreement">Политика конфиденциальности</a><br/><br/>
+			© 2024 Все права защищены.<br/>
 		</div>
 	</div>
 </div>
