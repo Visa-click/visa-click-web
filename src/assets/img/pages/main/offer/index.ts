@@ -1,0 +1,10 @@
+export { default as OfferLeft1Png } from './img_left_1.png';
+export { default as OfferLeft1Webp } from './img_left_1.webp';
+export { default as OfferLeft2Png } from './img_left_2.png';
+export { default as OfferLeft2Webp } from './img_left_2.webp';
+export { default as OfferRight1Png } from './img_right_1.png';
+export { default as OfferRight1Webp } from './img_right_1.webp';
+export { default as OfferRight2Png } from './img_right_2.png';
+export { default as OfferRight2Webp } from './img_right_2.webp';
+export { default as OfferMainPng } from './main_image.png';
+export { default as OfferMainWebp } from './main_image.webp';

@@ -1,0 +1,12 @@
+export { default as BenefitsAbstractPng } from './abstract.png';
+export { default as BenefitsAbstractWebp } from './abstract.webp';
+export { default as Benefit1Png } from './benefit-1.png';
+export { default as Benefit1Webp } from './benefit-1.webp';
+export { default as Benefit2Png } from './benefit-2.png';
+export { default as Benefit2Webp } from './benefit-2.webp';
+export { default as Benefit3Png } from './benefit-3.png';
+export { default as Benefit3Webp } from './benefit-3.webp';
+export { default as Benefit4Png } from './benefit-4.png';
+export { default as Benefit4Webp } from './benefit-4.webp';
+export { default as Benefit5Png } from './benefit-5.png';
+export { default as Benefit5Webp } from './benefit-5.webp';
